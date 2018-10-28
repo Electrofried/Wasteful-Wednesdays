@@ -1,0 +1,49 @@
+Wasteful Wednesdays
+
+Pack Outline:-
+
+Wasteful Wednesdays, Nik and Isaac play a lot of skyblocks, and inevitably someone falls in to the void or throws things off the edge...
+These things have to end up somewhere... Visit the multiple worlds that contain all the 'bits and pieces' tossed in to the void over the years.
+
+
+Custom wasteland starting world, custom structures that contain references to past series eg. chunks of the "nations" from agrarian skies, pagoda's, ruined reproductions of other worlds. No ore generation.
+
+Fast track to Advanced rocketry via quests with the expectation that people create their base on a space station.
+
+
+Multiple planets based of GoC series that allow access to new sieveable materials and world generation.
+
+Sieving?(Or possibly custom modular machines) but not directly for metals. Instead sieve for Machine parts. These can be assembled to machines or deconstructed and allow further progress.
+
+Gated progression through the use of requiring processing from one mod to progress to another. IE. To start with Thermal, you would require a machine frame that can only be crafted with Plutonium from IC2 meaning you have to run a reactor at least once. However once you have thermal machines, you can make machine casings with custom item made in thermal compactor.
+
+Mod list chosen with input from Isaac and Nik, with the theme of working through a mod that is "painful" to unlock one that is "preferred".
+
+Custom Advanced rocketry planets and gas giants. Each planet represents the start of a new set of mods/quests but they can be started in any order once advanced rocketry unlocked. EG. Planet with 'flowery soil' sifted for basic botania resources and world gen of living wood/rock. Required to start botania, that would then branch out to thaumcraft.
+
+Quest book, split in to sections, small progression tree's in each section. Small enough that each section would take an hour or so to finish and not feel overwhelming or daunting (Because we all know Nik and Isaac would take 5x longer than the intended time :P ), but with enough different sections to provide long term challenge/playability.
+
+Fun random rewards for quests, not pack breaking, but not boring.
+
+GoC assets used for quest sounds (Quotes from videos on key quests, catch phrases for smaller completions)
+
+Custom Nik and Isaac monsters/resources such as villagers that say "you turkey"
+
+Bring in some newer mods, such as modular machines, that could be used for early game sieve/generation mechanics and to bridge gaps between mods.
+
+Bring back the fantasy block if possible? (Check with the chisel license/devs, may be able to just make custom blocks).
+
+
+----------------------------------------
+
+What I would need to make this happen:
+
+Permission, to use logo's, art, sound bites etc.
+Mod list input. Preferably including and sorted by 'preferred' and 'painful'
+GoC art assets.
+Possibly some small custom sound bites where none can be ripped from existing videos.
+
+----------------------------------------
+
+This is going to be a big pack, what have I got my self in for...
+:P
